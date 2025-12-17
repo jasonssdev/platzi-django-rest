@@ -1,0 +1,14 @@
+name: django-py312
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - django
+  - ipython
+  - django-filter
+  - djangorestframework
+  - markdown
+prefix: /opt/anaconda3/envs/django-py312
