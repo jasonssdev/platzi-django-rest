@@ -11,4 +11,5 @@ dependencies:
   - django-filter
   - djangorestframework
   - markdown
+  - drf-spectacular
 prefix: /opt/anaconda3/envs/django-py312
